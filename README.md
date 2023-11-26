@@ -10,4 +10,4 @@ This project uses an Arduino Uno, along with a DHT11 temperature and air-humidit
 ## LDR Module
 ![image](https://github.com/dfdaa0/estufa-arduino/assets/62820023/e9f074f4-880e-40b8-8803-73bf2e187b75)
 
-Note: none of the images are mine.
+Note: none of the images are my property.
