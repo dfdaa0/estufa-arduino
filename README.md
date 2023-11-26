@@ -1,6 +1,3 @@
-# estufa-arduino
-Digital Systems Lab final project
-
 ## Overview
 This project uses an Arduino Uno, along with a DHT11 temperature and air-humidity sensor, a soil resistive moisture sensor and a LDR module. The idea is to collect the conditions of a close environment and turn on an irrigation system.
 
